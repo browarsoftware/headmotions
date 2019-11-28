@@ -1,0 +1,19 @@
+#Sun Apr 21 21:44:12 CEST 2019
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=E\:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\transforms\\dexMerger\\debug\\25
+base.4=E\:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\transforms\\dexMerger\\debug\\24
+base.3=E\:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\transforms\\dexMerger\\debug\\27
+base.2=E\:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+base.1=E\:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\transforms\\dexMerger\\debug\\28
+base.0=E\:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

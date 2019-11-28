@@ -1,0 +1,8 @@
+"clockwise" "counterclockwise" "left" "node_head" "omega_left" "omega_right" "right" "err"
+"clockwise" 1 0 0 0 0 0 0 0
+"counterclockwise" 0 0.916666666666667 0.0833333333333333 0 0 0 0 0.0833333333333333
+"left" 0 0 1 0 0 0 0 0
+"node_head" 0.0833333333333333 0.166666666666667 0 0.75 0 0 0 0.25
+"omega_left" 0 0 0 0 1 0 0 0
+"omega_right" 0 0 0 0 0 1 0 0
+"right" 0 0 0 0 0 0 1 0

@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_ui_layer.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-mdpi-v4\\transition.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-xxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_hello_vr_icon_front.png.flat",
+        "source": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\src\\main\\res\\drawable-nodpi\\hello_vr_icon_front.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_back_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout-ldrtl-v17\\back_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-xhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-xhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-xxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout-ldrtl-v17\\settings_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-xhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_settings_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout\\settings_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-land_back_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout-land\\back_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_back_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-v21_rippleable.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-v21\\rippleable.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_common_ui.xml.flat",
+        "source": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\src\\main\\res\\layout\\common_ui.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-land_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout-land\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_settings_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout\\settings_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout-ldrtl-land-v17\\settings_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-xxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-xhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_ic_launcher_hello_vr_round.png.flat",
+        "source": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\src\\main\\res\\drawable-nodpi\\ic_launcher_hello_vr_round.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-land_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout-land\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-land_settings_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout-land\\settings_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17_back_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout-ldrtl-land-v17\\back_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout-ldrtl-v17\\settings_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-v21_rippleable.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-v21\\rippleable.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable_rippleable.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable\\rippleable.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-land_back_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout-land\\back_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-xxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_back_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout-ldrtl-v17\\back_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_transition_view.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout\\transition_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_ic_launcher_hello_vr_round.png.flat",
+        "source": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\src\\main\\res\\drawable-nodpi\\ic_launcher_hello_vr_round.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_back_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_hello_vr_icon_back.png.flat",
+        "source": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\src\\main\\res\\drawable-nodpi\\hello_vr_icon_back.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_transition_view.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout\\transition_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable_rippleable.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable\\rippleable.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-mdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_hello_vr_icon_front.png.flat",
+        "source": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\src\\main\\res\\drawable-nodpi\\hello_vr_icon_front.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_common_ui.xml.flat",
+        "source": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\src\\main\\res\\layout\\common_ui.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_ui_layer.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-mdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout-ldrtl-land-v17\\settings_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-land_settings_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout-land\\settings_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_hello_vr_icon_back.png.flat",
+        "source": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\src\\main\\res\\drawable-nodpi\\hello_vr_icon_back.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17_back_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\layout-ldrtl-land-v17\\back_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\ed4e756a865c5a4a627aec1db37f36fe\\res\\drawable-mdpi-v4\\transition.png"
+    },
+    {
+        "merged": "E:\\Users\\User\\AndroidStudioProjects\\android_vr\\samples\\sdk-hellovr\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.180.0.aar\\cbceac5e3cf0b3b11cf57722103613aa\\res\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png"
+    }
+]

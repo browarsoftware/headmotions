@@ -1,0 +1,8 @@
+"clockwise" "counterclockwise" "left" "node_head" "omega_left" "omega_right" "right"
+"clockwise" 8 0 0 1 1 0 0
+"counterclockwise" 0 10 0 0 1 0 0
+"left" 0 0 11 0 0 0 0
+"node_head" 0 0 0 12 0 0 0
+"omega_left" 0 0 0 0 12 0 0
+"omega_right" 0 0 0 0 0 12 0
+"right" 0 0 0 0 0 0 12
